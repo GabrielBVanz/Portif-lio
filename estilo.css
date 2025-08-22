@@ -1,0 +1,228 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+body{
+    margin:0;
+    background-color:#ffffff ;
+    font-family: "Inter";
+}
+.container{
+    width: 1100px;
+    margin: 0 auto;
+    background-color:#ffffff;
+    padding:16px;
+    display:flex;
+    justify-content: space-between;
+}
+.container2{
+    width: 1100px;
+    background-color:#253038;
+    margin: 0 auto;
+    padding:16px;
+    display:flex;
+    justify-content: space-evenly;
+    display:flex;
+    border-radius: 1%;
+    flex-wrap: wrap;
+    height: 440px;
+}
+.containerprojetos{
+    width: 1100px;
+    background-color:#253038;
+    margin: 0 auto;
+    padding:16px;
+    display:flex;
+    justify-content: space-evenly;
+    display:flex;
+    border-radius: 1%;
+    flex-wrap: wrap;
+    height: 950px;
+}
+.containersobre{
+    width: 1100px;
+    margin: 0 auto;
+    background-color:#ffffff;
+    padding:16px;
+    justify-content: space-between;
+}
+.containerh{
+    width: 1100px;
+    margin: 0 auto;
+    background-color:#ffffff;
+    padding:16px;
+}
+.containeriprojetos{
+    width: 1100px;
+    margin: 0 auto;
+    background-color:#ffffff;
+    padding:16px;
+    justify-content: space-between;
+}
+.containercontato{
+    width: 1100px;
+    margin: 0 auto;
+    background-color:#ffffff;
+    padding:16px;
+    display:flex;
+    justify-content: space-between;
+}
+a{
+    color:#d7d7d7;
+    text-decoration: none;
+}
+.menu{
+    display:flex;
+    justify-content: end;
+    align-items: center;
+    background-color: #181717;
+}
+.menulinks{
+    display: flex;
+    margin: 0;
+}
+.menulinks ul{
+    display:flex;
+}
+.rodape{
+    background-color: #181717;
+    height: 80px;
+}
+#rodape-id{
+    background-color: #181717;
+    color:#d7d7d7;
+    height: 80px;
+    display:flex;
+    align-items: center;
+    justify-content:space-around;
+}
+ul li {
+    list-style-type: none;
+    padding: 20px;
+}
+.imagemindex img{
+  height: 420px;
+  padding: 60px;
+  border-radius: 80px;
+}
+p{
+	font-style:italic;
+}
+.maisculo p{
+    margin:0 0 12px 0;
+    font-size:20px;
+    font-weight:700;
+    letter-spacing:0.4px;
+    color:#0b0b0b;
+}
+.titulo{
+    justify-content: baseline;
+}
+.projeto1 img{
+    height: 150px;
+    width: 250px;
+    margin: 20px;
+}
+.projeto2 img{
+    height: 150px;
+    width: 250px;
+    margin: 20px;
+}
+.projeto3 img{
+    height: 150px;
+    width: 250px;
+    margin: 20px;
+}
+.projeto4 img{
+    height: 150px;
+    width: 250px;
+    margin: 20px;
+}
+.projetos {
+    display: flex;
+    flex-wrap: wrap;
+}
+.projeto1{
+    background-color: #4f708d;
+    margin: 30px;
+    border-radius: 10px;
+}
+.projeto2{
+    background-color: #4f708d;
+    margin: 30px;
+    border-radius: 10px;
+}
+.projeto3{
+    background-color: #4f708d;
+    margin: 30px;
+    border-radius: 10px;
+}
+.projeto4{
+    background-color: #4f708d;
+    margin: 30px;
+    border-radius: 10px;
+}
+.projeto1 h1{
+    margin: 30px;
+}
+.projeto2 h1{
+    margin: 30px;
+}
+.projeto3 h1{
+    margin: 30px;
+}
+.projeto4 h1{
+    margin: 30px;
+}
+.projeto1 p{
+    margin: 30px;
+}
+.projeto2 p{
+    margin: 30px;
+}
+.projeto3 p{
+    margin: 30px;
+}
+.projeto4 p{
+    margin: 30px;
+}
+.imagem1 img{
+    height: 400px;
+    width: 450px;
+    margin: 20px;
+    border-radius: 20px;
+}
+.imagem2 img{
+    height: 400px;
+    width: 450px;
+    margin: 20px;
+    border-radius: 20px;
+}
+.habilidade1{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #4f708d;
+    border-radius: 20px;
+}
+.habilidade11 img{
+    height: 50px;
+    background-color: #ffffff;
+}
+.habilidade11{
+    margin: 20px;
+}
+.diferenciais{
+    background-color: #4f708d;
+    border-radius: 20px;
+}
+.imagensprojetos{
+    background-color:#4f708d;
+    text-align: center;
+}
+.imagensprojetos img{
+    height: 400px;
+    width: 650px;
+    margin: 20px;
+    border-radius: 20px;
+}
+.linkado a{
+    color:#000000;
+    text-decoration:underline;
+}
