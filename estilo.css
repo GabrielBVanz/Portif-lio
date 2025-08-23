@@ -225,4 +225,5 @@ p{
 .linkado a{
     color:#000000;
     text-decoration:underline;
+	border-radius: 15px;
 }
